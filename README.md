@@ -1,13 +1,12 @@
-# Working with SCSS
+# Responsive template
 
-This project results in a simple responsive HTML/SCSS template.
+This project results in a fun responsive HTML/SCSS template.
 
-## A helpful VSCode extension
+## Helpful VSCode extension
 
-Instead of using Gulp to compile SASS into CSS install "Live Sass Compiler" - visual studio code
-"watch sass" in bottom of visual studio code
+In Visual Studio Code, install install "Live Sass Compiler" - then "watch sass" in bottom of Visual Studio Code
 
-## Resource websites
+## Helpful website resources
 
 [https://caniuse.com](https://caniuse.com) - variables work 87% CSS3 browsers without needing sass
 
@@ -26,3 +25,11 @@ Mobile
 ![Mobile screenshot](./images/mobile.png)
 
 ## Deployed application
+
+### Website
+
+[https://bravotango.github.io/Sassy/](https://bravotango.github.io/Sassy/)
+
+### Repo
+
+[https://github.com/bravotango/Sassy](https://github.com/bravotango/Sassy)
